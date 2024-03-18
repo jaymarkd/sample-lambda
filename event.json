@@ -1,0 +1,8 @@
+{
+    "Records": [
+        {
+            "body": "{\"endpoint\":\"{URL}\",\"payload\":{\"text\":\"this is a sample webhook service\"},\"method\":\"POST\"}"
+        }
+    ]
+    
+}
